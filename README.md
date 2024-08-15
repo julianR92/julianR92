@@ -1,6 +1,6 @@
-- 👋 Hola, Soy Julian Rincon
-- Desarrollador Web
-- Bienvenidos!
+- 👋 HI, I am Julian Rincon
+- Software Developer
+- Welcome!
 
 
 
